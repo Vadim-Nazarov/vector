@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: vector_role
   namespace: glennbell
-  author: Nikita Bulgakov
+  author: VN
   description: This role for install Vector on EL
   company: Netology
 
