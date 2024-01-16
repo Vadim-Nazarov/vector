@@ -34,7 +34,3 @@ License
 
 MIT
 
-Author Information
-------------------
-
-Nikita Bulgakov
